@@ -1,2 +1,1 @@
-# epk-kg-rag
-Electron-phono coupling literarure knowledge graph + rag
+﻿# Project demo (EPC KG Final)nnSee .env.example for config.
